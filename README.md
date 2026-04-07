@@ -1,8 +1,8 @@
-# 🧠 Additive Graph AI
+Additive Graph AI
 
 An AI-powered food additive analysis system built using Knowledge Graphs (RDF), SPARQL, and Large Language Models.
 
-## 🚀 Features
+Features
 
 - 🔍 Semantic querying with SPARQL
 - 🧠 AI-powered interpretation of food additives
@@ -10,7 +10,7 @@ An AI-powered food additive analysis system built using Knowledge Graphs (RDF), 
 - 🧩 Knowledge Graph integration (RDF)
 - 💬 Interactive web app using Streamlit
 
-## 🛠️ Tech Stack
+Tech Stack
 
 - Python
 - RDF / OWL
@@ -18,16 +18,16 @@ An AI-powered food additive analysis system built using Knowledge Graphs (RDF), 
 - OpenAI API
 - Streamlit
 
-## 💡 Example Queries
+Example Queries
 
 - "E102 zararlı mı?"
 - "Renklendirici katkılar hangileri?"
 - "Yüksek riskli katkılar nelerdir?"
 
-## 🧠 Purpose
+Purpose
 
 This project demonstrates how Knowledge Graphs can be combined with AI to build intelligent decision support systems in the food safety domain.
 
 ## 👤 Author
 
-Emine Gürgen
+Emine Gürgen Yıldırım
